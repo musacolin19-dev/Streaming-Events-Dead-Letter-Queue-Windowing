@@ -1,0 +1,4 @@
+{"event_id":"e1","timestamp":"2026-01-01T12:01:00Z","category":"books","amount":19.25}
+{"event_id":"e2","timestamp":"2026-01-01T12:02:00Z","category":"books","amount":10.75}
+{"event_id":"e2","timestamp":"2026-01-01T12:02:00Z","category":"books","amount":10.75}
+{"event_id":"e3","timestamp":"2026-01-01T12:06:00Z","category":"music","amount":8.00}
